@@ -7,6 +7,10 @@ Distributing Tracing Lab - Nodejs
 
 - Key package: jaeger-client, bent
 
+- Step by step: (by Docker)
+  + docker-compose build
+  + docker-compose up -d
+
 - Demo:
 
 - Source: https://tracing.cloudnative101.dev/docs/lab-jaeger-nodejs.html
